@@ -55,7 +55,7 @@ Diagnose which risk the copy failed to defuse — that's the fix.
 
 ## Pricing psychology
 
-Anchor high → reveal price · charm pricing (X99/X90) · bundle to blur unit price · installments framing ("3× ₪66" feels smaller than ₪199) · cost-per-use reframe · guarantee shifts risk from buyer to seller.
+Anchor high → reveal price · charm pricing (X99/X90) · bundle to blur unit price · installments framing · cost-per-use reframe · guarantee shifts risk from buyer to seller.
 
 ## How to use in creative testing
 

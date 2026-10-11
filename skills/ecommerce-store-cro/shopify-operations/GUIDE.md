@@ -8,15 +8,6 @@ Manage the store through the connected Shopify MCP tools. Everything the MCP exp
 
 Ask only for what's missing: store domain · Hebrew RTL · currency ILS · brand color · theme · page builder · payment provider · reviews app · email/popups · abandoned cart · the product and the offer.
 
-**A proven stack for an Israeli DTC store** (default recommendation unless there's a reason to differ):
-
-- Theme: **Shrine** — built for DTC, fast, RTL works
-- Product page + cart drawer: **Cartify**
-- Payments: **PayPlus** (Israeli gateway, installments, Bit)
-- Reviews: **Vouch**
-- Email, popups and flows: **Klaviyo**
-- Abandoned cart: **Flashy** (Israeli, WhatsApp and SMS)
-
 ## Store rules
 
 - Subscription products need the cancellation terms stated in plain Hebrew on the page itself, not only in the policy.

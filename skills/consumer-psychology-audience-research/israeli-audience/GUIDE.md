@@ -2,6 +2,8 @@ Original description: Deep knowledge of the Israeli consumer for e-commerce and 
 
 # The Israeli Audience
 
+> Note: some examples address a female shopper ("אל תשלמי", "ישראליות"); adapt the gender to the target audience.
+
 How Israeli consumers think, what builds their trust, and what kills it. Use for strategy, creative direction, and interpreting research — copy itself follows the copywriting-ads skill.
 
 ## The Israeli consumer psyche

@@ -15,6 +15,8 @@ Merged from three source skills. Each source lives in its own folder as `GUIDE.m
 | customer-market-research | `customer-market-research/GUIDE.md` | Research method: sources to mine in priority order, VOC categories, 7-step process, research document template, five depth questions per avatar, survey question design. |
 | israeli-audience | `israeli-audience/GUIDE.md` | The Israeli consumer: freier anxiety, skepticism, dugri, "people like me" proof, Hebrew language rules, trust signals, checkout and payments, consumer-protection basics, the Israeli calendar, segments, platforms. |
 
+Note: the text addresses a female shopper in places (e.g. "אל תשלמי", "תדמייני", "ישראליות"); adapt the gender to the target audience.
+
 ## Which part to read when
 
 | Task | Read |
