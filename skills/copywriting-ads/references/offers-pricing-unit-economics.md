@@ -1,6 +1,6 @@
 # Offers, pricing and unit economics (method only)
 
-<!-- Topic file built from the niche-neutral method parts of hebrew-dr-source: references/business.md §1.4, references/supplements.md §2.3, §3.4 and §3.7, and SKILL.md part ב (offer rules) and part ו (Hormozi). The business's own prices, COGS, offer table, tested offers and numbers were removed; method lines are kept verbatim where possible and generalized with [placeholders] where they named the business's product or numbers. Meta-side profit math (break-even ROAS table, VAT stripping, sample-size rules) lives in ../meta-ads-analysis/GUIDE.md, Step 2. -->
+<!-- Topic file built from the niche-neutral method parts of hebrew-dr-source: references/business.md §1.4, references/category-notes.md §2.2, §2.3, §2.4, §3.4 and §3.7, and SKILL.md part ב (offer rules) and part ו (Hormozi). The business's own prices, COGS, offer table, tested offers and numbers were removed; method lines are kept verbatim where possible and generalized with [placeholders] where they named the business's product or numbers. Meta-side profit math (break-even ROAS table, VAT stripping, sample-size rules) lives in ../meta-ads-analysis/GUIDE.md, Step 2. -->
 
 ## נוסחאות כלכלת יחידה
 <!-- from: hebrew-dr-source/references/business.md §1.4 -->
@@ -10,17 +10,27 @@
 - כשיש מנוי או מכירה חוזרת, בודקים גם ערך לקוח לאורך זמן (LTV) מול עלות רכישה (CAC), אבל **לא מסתמכים על LTV שלא הוכח**. עד שיש נתוני חידוש אמיתיים, ההחלטות נעשות על הזמנה ראשונה.
 
 ## כשמבקשים דעה על הצעות
-<!-- from: hebrew-dr-source/references/supplements.md §3.7 (last paragraph, generalized) -->
+<!-- from: hebrew-dr-source/references/category-notes.md §3.7 (last paragraph, generalized) -->
 **תמיד מחשבים כלכלת יחידה לכל אחת (מחיר, COGS, משלוח, סליקה, אחוז החזרות משוער, CAC יעד) ומראים איזו שורדת. הצעה עם אחריות ארוכה ומינימום [תקופה או כמות] היא הכי מסוכנת לתזרים ולכן הכי חשוב לחשב אותה.**
 
 ## אתגרים עסקיים שעליהם חייבים להתריע
-<!-- from: hebrew-dr-source/references/supplements.md §3.4 (items 1, 2 and 5, generalized; items 3 and 4 were supplement-specific and removed) -->
+<!-- from: hebrew-dr-source/references/category-notes.md §3.4 (all five items, generalized; items 3 and 4 added back per user decision) -->
 1. **הבטחה מול תוצאה.** [כשהמוצר דורש התמדה של חודשים עד שרואים תוצאה], אחריות של [90 או 120] יום עם [תנאי החזרה, למשל "שמור את האריזה"] חושפת את העסק להחזרים אם יש אחוז לא קטן שלא רואה תוצאה תוך התקופה. צריך לחשב אחוז החזרות צפוי מראש (למשל 15%, 25%, 35%) ולבדוק אם עדיין יש רווח.
 2. **מנוי ומינימום [תקופה]:** מסתדרים עם [הצורך בהתמדה], אבל חייבים שקיפות (חוק הגנת הצרכן) וקל לבטל, אחרת יש תלונות והחזרי חיוב.
-3. **חשיפה חוקית בגלל הסוואפים.** הנטייה להעתיק טענות שנראות עובדות אצל [מתחרים] מסוכנת (ראו hebrew-dr-copy.md, חלק ח, אזהרה על הסווייפים).
+3. **המנגנון "[המנגנון שמסביר את הבעיה]":** [היגיון שמקובל במקרים מסוימים], אבל אצל רוב [הלקוחות] הסיבות בדרך כלל [אחרות]. המנגנון הוא סיפור חזק ומסביר למה גם מי ש[עושה הכל נכון] מפסידה, אבל אסור להציג אותו כאבחנה. משתמשים בו כדי להסביר למה נדרש [שימוש עקבי], בלי להבטיח שהוא הסיבה אצל כל לקוחה.
+4. **[המפרט] מול פורמט:** [הפורמט הנוח] מגביל את [כמות החומר הפעיל או המפרט]. הטיעון "[יתרון שהפורמט לא מאפשר]" מתנגש עם זה אם [המפרט] לא באמת [גבוה]. הפתרון הוא לא לטעון "[היתרון]" אלא לדבר על מה שכן בפנים (כמויות מוצהרות, בדיקת התווית) ועל שיעור ההתמדה.
+5. **חשיפה חוקית בגלל הסוואפים.** הנטייה להעתיק טענות שנראות עובדות אצל [מתחרים] מסוכנת (ראו hebrew-dr-copy.md, חלק ח, אזהרה על הסווייפים).
+
+## פורמט, התמדה ואיכות (מוצרים מתכלים עם רכיבים)
+<!-- from: hebrew-dr-source/references/category-notes.md §2.2 (forms and the business insight, generalized to consumables) and §2.4 (quality line); added back per user decision -->
+- **פורמט "רציני" (למשל כמוסות וטבליות):** מכילות הכי הרבה חומר פעיל, יציבות, זולות. חסרון: שיעור הצמדות (compliance) נמוך יותר כי זה "כדור".
+- **פורמט טעים או קל (למשל [פורמט דמוי פינוק]):** טעם טוב, קל להתמיד, נראה כמו [פינוק] ולכן המוח קורא לזה "לא באמת תרופה". חסרונות: קיבולת מוגבלת (יש תקרה לכמות החומר הפעיל ליחידה), [יציבות פחותה של חלק מהרכיבים], [ממתיקים או תוספות שעלולים לגרום לתופעות], רגישות לחום ולחות, בקרת איכות קשה יותר (שונות בתכולה בין יחידות), עלות ליחידה גבוהה. [רכיבים שקשה להכניס לפורמט].
+- **פורמט גמיש (למשל אבקות ונוזלים):** מינון גמיש, אבל טעם ונוחות הם חסם.
+- **התובנה העסקית:** כשהצלחה תלויה בהתמדה של [חודשים], פורמט טעים או קל הוא יתרון אמיתי, אבל הוא עולה ב[מינון או בכמות החומר הפעיל]. צריך לשאול בכל מוצר: כמה חומר פעיל באמת נכנס ביום, ומול מה שנחקר?
+- **איכות:** בדיקות צד שלישי (COA, מעבדה), GMP, מקור חומרי גלם, מינון אמיתי לעומת "פיזור מרקיס" (הצגת רכיב במינון קטן כדי להיראות על התווית).
 
 ## חוק הגנת הצרכן והאחריות
-<!-- from: hebrew-dr-source/references/supplements.md §2.3 (consumer-law line, generalized) -->
+<!-- from: hebrew-dr-source/references/category-notes.md §2.3 (consumer-law line, generalized) -->
 - **חוק הגנת הצרכן:** זכות ביטול של 14 יום במכר מרחוק (אי אפשר להסתיר), חובת גילוי מחיר כולל, איסור הטעיה. אחריות "[X] יום" היא התחייבות עסקית שמעבר לחוק ותעלה כסף (ראו "הבטחה מול תוצאה" למעלה).
 - תנאי המנוי, הביטול וההחזר המלאים לקופי: hebrew-dr-copy.md, חלק ח (צרכנות).
 
@@ -35,7 +45,7 @@
 - **הצעה (Hormozi):** חלום מוחשי, סיכוי נתפס (שקיפות, אחריות, הסבר), זמן ביושר כסיבה ל[החבילה הגדולה], מאמץ נמוך ([מה נדרש מהלקוח ביום]). ערימת ערך רק מדברים אמיתיים. ב UGC: משפט על האחריות ומשפט על המחיר ליום.
 
 ## ארכיטיפים של הצעות תמחור (מוכלל ממה שנבחן)
-<!-- from: hebrew-dr-source/references/supplements.md §3.7 (structures kept, the business's numbers replaced) -->
+<!-- from: hebrew-dr-source/references/category-notes.md §3.7 (structures kept, the business's numbers replaced) -->
 1. מחיר רגיל [X] ש"ח, מנוי [Y] ש"ח (15% הנחה), וההנחה גדלה בערך 5% לכל [יחידה] נוספת ככל שההתחייבות מתארכת.
 2. [X] ש"ח מחיר רגיל, בלי [יחידה] בודדת (מינימום [שתיים]), עם אחריות תוצאות ל-[120] יום.
 3. [X] ש"ח מחיר רגיל, 1+1 עם מוצר בונוס שלא חייב להיות קשור ל[קטגוריה] (למשל [מוצר משלים מאותו מותג]).

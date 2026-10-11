@@ -1,6 +1,6 @@
 # מערכת המודעות, הוויז'ן וחמשת החוקים
 
-<!-- Topic file built from the niche-neutral parts of hebrew-dr-source: ads-and-vision.md (parts 4 and 6), SKILL.md part ד, and references/supplements.md §3.6 (the mentor's ad structure). The business's saved swipes (competitor ads), its five specific visions, its product mechanism and its avatars were removed; niche examples generalized with [placeholders]. How to write part ב of a vision (the twelve components, devices, Hebrew skeleton, worked example) is in ../ad-vision-writing/GUIDE.md and its references/. Overlaps between the two sources are listed in ../SKILL.md, "Conflicts between sources". -->
+<!-- Topic file built from the niche-neutral parts of hebrew-dr-source: ads-and-vision.md (parts 4 and 6), SKILL.md part ד, and references/category-notes.md §3.6 (the mentor's ad structure). The business's saved swipes (competitor ads), its product mechanism and its avatars were removed; its five specific visions are kept only as generalized format examples (part ד); niche examples generalized with [placeholders]. How to write part ב of a vision (the twelve components, devices, Hebrew skeleton, worked example) is in ../ad-vision-writing/GUIDE.md and its references/. Overlaps between the two sources are listed in ../SKILL.md, "Conflicts between sources". -->
 
 # חלק 4: מערכת המודעות והוויז'ן
 
@@ -33,7 +33,7 @@
 ## 4.4 מנגנון מנוע הפסקה (נלמד מסווייפ UGC של מתחרה, חשוב)
 הכלל המלא (הפסקה כתאונה חד פעמית, הוכחה כפעולה, מילה רגשית אחרי ההוכחה) נמצא בחלק 6, חוק 2.
 
-<!-- from: hebrew-dr-source/references/supplements.md §3.6 (generalized) -->
+<!-- from: hebrew-dr-source/references/category-notes.md §3.6 (generalized) -->
 ## 3.6 מבנה מודעה של המנטור (לפי רמת מודעות)
 1. **הוק שנפתח על הרצון:** תחושה שהפעם זה יעבוד.
 2. **אמצע: דיסוננס מדעי רגוע (semi-scientific):** למה זה נכשל אצלה ואצל כמעט כולם שמשתמשים ב[הפתרונות הנפוצים] בלבד ([למה הם לא מספיקים]). לא הרצאה. דרך חוויה אישית.
@@ -53,6 +53,15 @@
 **חופש:** מאחדים, מזיזים, מקצרים, מעבירים לוויזואל בלי לשאול. שינוי זווית, קהל או דובר: שורה שאומרת מה ולמה.
 
 **תקציב זמן (הערכה, להקריא עם שעון):** זום רגוע 50 שניות כ 85 עד 100 מילים. UGC או דיאלוג 30 שניות כ 60 עד 70, 45 שניות כ 90 עד 110, 60 שניות כ 120 עד 145. קריין מהיר 60 שניות כ 140 עד 160. אנימציה 2 דקות כ 240 עד 275. סופרים מילים מדוברות עם ההוק הארוך. עוברים: קוצצים לפני ההגשה.
+
+<!-- from: hebrew-dr-source/SKILL.md, חלק ד "חמשת הוויז'נים" (added back per user decision, as generalized FORMAT examples; all product and niche specifics replaced with [placeholders]) -->
+### חמשת הוויז'נים (דוגמאות פורמט, מוכללות)
+- **[שתי דמויות] (אנימציה, 2 דקות, [קהל] מודעים לפתרון):** "אני [דמות א] עכשיו. מה [דמות ב] עשה אחרת?" [דמות א] מסתיר ובודק, ניסה ועזב, פוחד; [דמות ב] התחיל באותה נקודה. מה [דמות ב] הבין: (א) [למה הצורך קיים, בניסוח מותר]; (ב) כל מה שניסה דרש הרבה ולכן עזב לפני שהיה זמן לראות משהו. התוצאה הרגשית: חופש מהבדיקה. הערת הפקה: דמויות המחשה. הוכחה חברתית רק אמיתית. הוק לא סותר את הגוף.
+- **זום, אישה [גיל] ומנכ"ל (50 שניות):** פותחים ברגע קטן ([מחווה קטנה שחושפת את הבעיה]), "ומה היה לפני?", ניסיונות, כמעט השלמה, **סיבה מסוימת לנסות שוב שנכתבת** (למשל: [למה דווקא את זה ידעה שתחזיק]), ספקנות ("עוד [מוצר] שיעמוד בארון"), חזרה לסימן, הקלה. בלי הרצאה. ההצעה בטקסט על המסך. עם שחקנית: רגע התוצאה מוחלף ברגע של הרגל ומסומן כהמחזה.
+- **נייטיב ארוך, "[X] שהיה פעם":** זיכרון מוחשי, השתקפות במסך כבוי, רגעים, ניסיונות, כמעט ויתור, מידע חדש ([עובדות אמיתיות עם מקור]), המותג, חזרה לסיטואציה מהפתיחה, הצעה. גוף ראשון רק עם דוברת אמיתית. בלי זלזול ב[אנשי מקצוע] ובלי "עריכה אחרי [תקופה]" שלא קרתה.
+- **קריין ו B-roll, לערער הנחה:** פרט מסקרן שיש לו מקור, הכרה במה שניסה, הסבר פשוט, המוצר כמענה אפשרי, הצעה. "[המנגנון]" רק בניסוח המותר. [החלופה היקרה]: הבדל בעלות, לא שוויון בתוצאה.
+- **גבר בשיחה מחוץ למצלמה (UGC 60 שניות):** נכנסים באמצע, ההתנגדות שהייתה לו, מה גרם לו לנסות, חוויה שיש לה בסיס, משמעות. לא איש מכירות. CTA יכול להיות כתוב על המסך. בלי תוצאה של שבוע.
+- **דמויות מדברות ([פורמט של מתחרה]):** [המוצר] לא [המנגנון שהמתחרה טוען לו] ואסור לרמוז. אם משתמשים בפורמט, הדמויות הן ההרגלים ([למשל המוצר שנשכח בארון]) ולא [טיפולים או מוצרים מתחרים].
 
 ---
 

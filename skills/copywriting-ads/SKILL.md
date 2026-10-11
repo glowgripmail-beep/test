@@ -26,12 +26,12 @@ Before writing any copy, read the working-style and request-type rules: `referen
 | AI-tells, high register words to replace, read-aloud test, speaker voices | `references/hebrew-dr-copy.md` part ג |
 | Objection handling (bank of answer patterns) | `references/hebrew-dr-copy.md` part ו; objection types in `references/dr-methodology.md` |
 | Claims, consumer law (14-day cancel, subscriptions), Meta ad policy on personal attributes, swipe-claims warning | `references/hebrew-dr-copy.md` part ח |
-| Avatar and angle method, the "burned buyer" avatar | `references/hebrew-dr-copy.md` part ט and `references/dr-methodology.md` ("Before writing: the avatar"); research: consumer-psychology-audience-research |
+| Avatar and angle method, the "burned buyer" avatar, angle bank (normalization, money burned, before vs now, event soon...), LF8 by audience | `references/hebrew-dr-copy.md` part ט and `references/dr-methodology.md` ("Before writing: the avatar"); research: consumer-psychology-audience-research |
 | Competitor positioning method | `references/hebrew-dr-copy.md` part י |
-| Offer design, pricing, price per day, guarantee risk, unit economics, opinions on offers | `references/offers-pricing-unit-economics.md` |
+| Offer design, pricing, price per day, guarantee risk, unit economics, opinions on offers, mechanism-vs-diagnosis and spec-vs-format risks, format vs adherence for consumables, ingredient quality (COA, GMP, "פיזור מרקיס") | `references/offers-pricing-unit-economics.md` |
 | Vision (ויז'ן) from a swiped reference: the two-part definition, part A (reference analysis) | `references/ads-and-vision.md` §4.1 |
 | Writing part B of a vision, batches of visions, quality gates | `ad-vision-writing/GUIDE.md`, then `ad-vision-writing/references/anatomy.md` (read before the first vision in a session), `devices.md` (persuasion moves), `template.md` (Hebrew skeleton, connector bank, worked example) |
-| Copy written from a vision: the five rules, the "pause engine", the mentor's ad structure, time budget in words | `references/ads-and-vision.md` (part ד, part 6, §3.6) |
+| Copy written from a vision: the five rules, the "pause engine", the mentor's ad structure, time budget in words, five generalized vision formats (animation, Zoom, long native, narrator + B-roll, off-camera UGC, talking characters) | `references/ads-and-vision.md` (part ד, part 6, §3.6) |
 | Meta Ads data: tracking check, profit math, funnel diagnosis, creative reading, kill/keep/scale, attribution, fatigue, daily and weekly process | `meta-ads-analysis/GUIDE.md` |
 
 ## מפת ניווט (rebuilt from the original routing map, with the new skill names)

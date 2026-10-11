@@ -1,6 +1,6 @@
 # קופי דירקט ריספונס בעברית: תהליך, קול, פורמטים ובדיקה
 
-<!-- Topic file built from the niche-neutral parts of hebrew-dr-source (SKILL.md, plus a few general lines from references/supplements.md). Everything specific to the business, its product, prices, avatars, competitors and to dietary supplements / hair was removed; niche examples were generalized with [bracketed placeholders]. Original part and section numbers (0, 1-8, ג, ה, ו, ז, ח, ט, י) are kept so lines can be traced to the source. Part ב (product and offer facts) and part ד (vision to copy) live elsewhere: offers in offers-pricing-unit-economics.md, vision to copy in ads-and-vision.md. The full DR methodology with its authorities is in dr-methodology.md. -->
+<!-- Topic file built from the niche-neutral parts of hebrew-dr-source (SKILL.md, plus a few general lines from references/category-notes.md). Everything specific to the business, its product, prices, avatars, competitors and to dietary supplements / hair was removed; niche examples were generalized with [bracketed placeholders]. Original part and section numbers (0, 1-8, ג, ה, ו, ז, ח, ט, י) are kept so lines can be traced to the source. Part ב (product and offer facts) and part ד (vision to copy) live elsewhere: offers in offers-pricing-unit-economics.md, vision to copy in ads-and-vision.md. The full DR methodology with its authorities is in dr-methodology.md. -->
 
 <!-- from: hebrew-dr-source/SKILL.md (intro) -->
 הופך אווטאר, זווית וויז'ן לקופי מוכן לעבודה בעברית ישראלית מדוברת. המטרה: קופי שדורש מעט תיקונים, טבעי, ספציפי לאדם אחד, נאמן לוויז'ן, בלי המצאות.
@@ -168,7 +168,7 @@
 ## חלק ו: עקרונות קופי ובנק התנגדויות
 - **מודעות (Schwartz):** לא מודע: סיפור, בלי מוצר בהתחלה. מודע לבעיה: הבעיה במילים שלו ואז למה. מודע לפתרון: למה הדרך הזאת שונה ממה שניסה. מודע למוצר: הבדל והוכחה. מודע מאוד: הצעה וקישור, בלי לחמם.
 - **תחכום:** השוק שמע "[הטענות השחוקות בקטגוריה]". טענה ישירה לא תזיז. עובד: הזדהות, מנגנון פשוט ואמין, הורדת סיכון, כנות על מה [המוצר] לא עושה.
-- **LF8:** מניע ראשי אחד לכל אווטאר ([אווטאר]: [מניע ראשי], משני [מניע משני]). נוחות וחיסכון בגוף ובהצעה, לא בהוק.
+- **LF8:** מניע ראשי אחד לכל אווטאר. גבר צעיר: קבלה חברתית (תמונות, חברים), משני משיכה. אישה 30+: קבלה חברתית ויופי. אישה 40 עד 60: חופש מפחד ו"[X] שהיה", לא משיכה כאיום. נוחות וחיסכון בגוף ובהצעה, לא בהוק.
 - **ליד לפי מודעות:** הצעה לחמים, בעיה ופתרון או "סוד" אמיתי למודעי בעיה, סיפור לקרים. רעיון אחד, רגש אחד, תועלת אחת.
 - **הוקים:** שלוש זוויות שונות באמת; סקרנות רק עם אינטרס אישי; "קל" כן, "מהר" לא; הבטחה לא גדולה מההוכחה; פותחים בשפה שהוא אומר לעצמו; לא תבניות קליקבייט בלי פרט ספציפי.
 - **הצעה (Hormozi):** ראו offers-pricing-unit-economics.md.
@@ -181,6 +181,7 @@
 - **"[הפורמט]? [זה לא רציני]":** "גם אני צחקתי. אבל [הפורמט] זה בדיוק מה ש[היתרון שהפורמט נותן]."
 - **"יקר":** מחיר ליום, "כמה כבר זרקתי על [מוצרים] שנגמרו באמצע", אחריות [לאשר].
 - **"תוך כמה זמן?":** "[עובדת הזמן האמיתית], אז זה עניין של [משך]. בגלל זה לקחתי [החבילה]."
+- **"זה יעבור לבד":** "אולי. בינתיים אני לפחות דואג ש[...] מקבל את מה שהוא צריך."
 - **"מנוי זה מלכודת":** רק עם תנאים מאושרים. עד אז להציע חד פעמי [החבילה המומלצת].
 
 ---
@@ -205,20 +206,30 @@
 - **צרכנות:** ביטול מכר מרחוק 14 יום. מנוי הוא עסקה מתמשכת: ביטול בכל זמן, הפסקת חיוב תוך 3 ימי עסקים, חובת גילוי של תדירות, סכום ודרך ביטול לפני הצטרפות. תנאי ה[תקופת האחריות] חייבים להיות כתובים לפני "החזר כספי" בקופי.
 - **Meta:** אסור לרמוז על מצב בריאותי של הצופה ולייצר תדמית עצמית שלילית. לבדוק את המדיניות העדכנית ב Ads Manager.
 
-<!-- from: hebrew-dr-source/references/supplements.md §2.3 (general lines only, generalized) -->
+<!-- from: hebrew-dr-source/references/category-notes.md §2.3 (general lines only, generalized) -->
 - **מדיניות הפרסום של מטא** (לאמת מול הכללים העדכניים): מגבילה טענות בריאות, תמונות לפני ואחרי לבריאות/משקל, ו"תכונות אישיות" (למשל מודעה שאומרת "[שאלה ישירה על הבעיה של הצופה]?" כאילו יודעת שזו הבעיה של הצופה עלולה להיפסל). לכן הוקים של שאלה ישירה על מצב בריאותי צריכים בדיקה, וסגנון כמו "מישהי שהכרתי" או ניסוח בגוף ראשון של סיפור עדיף על "את סובלת מ".
 - **אזהרה על הסווייפים:** מודעות שנאספות כסווייפים ([מתחרים]) משתמשות בטענות כמו "[מנגנון מנופח]" ו"[אחוז בלי מקור]" ו"[מחקר עם מספר משתתפים מרשים]". אלה מבנים ללמוד מהם, לא טענות להעתיק. כל טענה מספרית או מחקרית בקופי שלנו חייבת מקור אמיתי שאפשר להצביע עליו, ואל תיווצר מהסוואפ.
 
-<!-- from: hebrew-dr-source/references/supplements.md §2.4 (general sentence only) -->
+<!-- from: hebrew-dr-source/references/category-notes.md §2.4 (general sentence only) -->
 - הבטחת יתר היא לא רק בעיה משפטית, היא יוצרת החזרות ומוניטין רע.
 
 ---
 
 ## חלק ט: קהלים (שיטה בלבד)
-<!-- from: hebrew-dr-source/SKILL.md, חלק ט. The business's own avatars were removed; the card structure of an avatar and the cross-niche "burned buyer" avatar are kept, generalized. For building avatars from research see consumer-psychology-audience-research (part: customer-market-research); the "Before writing: the avatar" checklist is in dr-methodology.md. -->
+<!-- from: hebrew-dr-source/SKILL.md, חלק ט. The business's own avatars were removed; the card structure of an avatar, the cross-niche "burned buyer" avatar and a generalized angle bank (from category-notes.md §3.5) are kept. For building avatars from research see consumer-psychology-audience-research (part: customer-market-research); the "Before writing: the avatar" checklist is in dr-methodology.md. -->
 ("השערה" = לא נתמך בקול לקוח שנאסף.)
 - **[אווטאר: גיל ומגדר]** ([תתי שלבים, למשל שם לב עכשיו / מנסה פתרון / עזב / בודק את החלופה היקרה]): [הרגעים שבהם הבעיה נראית]. ניסה [פתרון 1] ([למה עזב]), פחד מ[פתרון 2] ([הפחד]), [החלופה היקרה] ([החסם]). "[האמונה המגבילה במילים שלו]". הוכחה: [מה ישכנע אותו, ממישהו כמוהו]. חשוד: [מה יעורר בו חשד]. שאלות: "[שאלה 1]?", "[שאלה 2]?", "אני נתקע במנוי?".
 - **מי שנכווה מ[הקטגוריה] (בכל הקהלים):** התמיד בלי תוצאה, [תופעות או אכזבות], מנוי שלא מצליחים לבטל, [חיכוך בשימוש]. מזיז: הסבר כן למה הקודמים לא קיבלו צ'אנס, אחריות בשורה, תנאים גלויים.
+
+<!-- from: hebrew-dr-source/references/category-notes.md §3.5 (angles listed under the business's avatars; added back per user decision as a generalized angle bank) -->
+### בנק זוויות (ארכיטיפים, מוכלל)
+- **נרמול:** "כולם על זה ואף אחד לא מדבר" (ובשטח: [אנשים] מגלים שחברים קרובים [משתמשים בפתרון] כבר שנים בלי לספר).
+- **כסף שנשרף לאורך השנים** ([על פתרונות קודמים שלא החזיקו]).
+- **לפני מול עכשיו.**
+- **אירועים חשובים בקרוב.**
+- **המראה שכולם רואים** (פוגשת הרבה אנשים).
+- **"[X] שהיה לי פעם".**
+- **[הפתרון היקר] שרוצה ולא יכול** ([מחיר], [פחד שהתוצאה לא תיראה טבעית]).
 
 ---
 
