@@ -30,6 +30,12 @@ This skill merges two former skills into one topic skill. Each keeps its full or
 
 Typical combined flow: use **watch** to get the word-level material of a reference video or of the user's own footage (transcript, timestamps, key frames), then **capcut-video-studio-by-amit-chen** to plan and execute the edit.
 
+## Production tool tips
+
+<!-- from: business notes, generalized -->
+- Higgsfield (סרטוני AI, כשמתחילים מתמונה כדי לשמור עקביות דמות)
+- CapCut (עריכה סופית עם קריינות בעברית)
+
 ## Invocation notes
 
 - `watch` was invoked as `/watch` (its body is titled `# /watch`). Its commands use `SKILL_DIR`, which now means the `watch/` folder of this skill (`<video-production>/watch/`); the bundled scripts are at `watch/scripts/`.

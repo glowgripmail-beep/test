@@ -4,7 +4,7 @@ Original description: Use when researching any topic, question, market, product,
 
 - מחקר לקוחות, ביקורות, מתחרים או אווטאר: consumer-psychology-audience-research (part: customer-market-research) הוא הסמכות על המתודולוגיה ועל התבנית. הסקיל הזה מוסיף את סבב חמשת המומחים ואת שלב האימות.
 - שוק ישראלי: לצרף את consumer-psychology-audience-research (part: israeli-audience).
-- סרטון כמקור (ראיון, מודעה, הרצאה): סקיל video-production (part: watch). נקודת מבט של מומחה מסוים: סקיל productivity-memory (part: coach).
+- סרטון כמקור (ראיון, מודעה, הרצאה): סקיל video-production (part: watch). נקודת מבט של מומחה מסוים: סקיל productivity-memory (part: coach). החלטה עסקית שנובעת מהמחקר: copywriting-ads.
 - הדוח בעברית פשוטה. לא להמציא מקורות. אם אין מקור, לכתוב "אין לי מקור לזה".
 
 # Research

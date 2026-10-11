@@ -1,6 +1,7 @@
 Original description: Premium brand-kit image generation skill for creating high-end brand-guidelines boards, logo systems, identity decks, and visual-world presentations. Trained for minimalist, cinematic, editorial, dark-tech, luxury, cultural, security, gaming, developer-tool, and consumer-app brand systems. Optimized for intentional logo concepting, refined composition, sparse typography, strong symbolic meaning, premium mockups, art-directed imagery, and flexible grid layouts.
 
 ## Usage notes (general lines kept from the original skill-connector section)
+- בעבודה על חנות או על דף נחיתה (שופיפיי, עברית RTL, מובייל קודם): ecommerce-store-cro הוא הסמכות. הסקיל הזה נותן כיוון ויזואלי בלבד, ובסתירה עם המרה, אמון, RTL או נגישות, ecommerce-store-cro גובר.
 - הקוד כאן כתוב בעיקר ל React ו Tailwind. בתבנית שופיפיי (Liquid) לוקחים את העקרונות, לא את הקוד.
 - קופי בתוך העיצוב: copywriting-ads. ביקורת אחרי בנייה: ui-web-design (part: web-design-guidelines). מפת כל סקילי העיצוב: ecommerce-store-cro (part: store-design-cro), "סקילים קשורים".
 - זהות מותג ולוגו.

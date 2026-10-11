@@ -6,6 +6,7 @@ Original metadata: version: "3.0"; author: tt-a1i; based_on: Cocoon-AI/architect
 
 ## Usage notes
 - תוויות בעברית. עובד רק בלשונית Code (צריך node).
+- תרשימים לעסק: משפך המכירה (copywriting-ads ו ecommerce-store-cro), זרימת הזמנה (ecommerce-store-cro), תהליך שירות לקוחות (ecommerce-store-cro), מבנה המותג והמוצרים.
 
 # Archify
 

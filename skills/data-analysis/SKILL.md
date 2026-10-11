@@ -10,6 +10,7 @@ One skill for the full analyst workflow: get the data (SQL), understand it (expl
 Each original source is kept complete in its own folder as `GUIDE.md` (its original description is the first paragraph). Read only the part(s) the task needs.
 
 Placeholders such as `~~data warehouse` are explained in [CONNECTORS.md](CONNECTORS.md). License: [LICENSE](LICENSE) (Apache 2.0, from the source plugin).
+The source plugin's README is kept as [PLUGIN-README.md](PLUGIN-README.md) (its slash commands are now parts of this skill), and [plugin.mcp.json](plugin.mcp.json) lists the connectors the original plugin used; it is reference only, not active config.
 
 ## Routing: task -> file to read
 
@@ -114,6 +115,8 @@ data-analysis/
   SKILL.md                      # this router
   CONNECTORS.md                 # ~~category placeholders (from the source plugin)
   LICENSE                       # Apache 2.0 (from the source plugin)
+  PLUGIN-README.md              # source plugin README (reference)
+  plugin.mcp.json               # connectors the source plugin used (reference only, not active config)
   analyze/GUIDE.md
   build-dashboard/GUIDE.md
   create-viz/GUIDE.md

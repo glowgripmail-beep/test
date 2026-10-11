@@ -1,6 +1,7 @@
 Original description: Elite frontend image-direction skill for generating premium, conversion-aware website design references. CRITICAL OUTPUT RULE — generate ONE separate horizontal image FOR EVERY section. A landing page with 8 sections produces 8 images. Never compress multiple sections into one image. Enforces composition variety (not always left-text / right-image), background-image freedom, varied CTAs, varied hero scales (giant / mid / mini minimalist), narrative concept spine, second-read moments, and a single consistent palette across all images. Optimized for landing pages, marketing sites, and product comps that developers or coding models can accurately recreate.
 
 ## Usage notes (general lines kept from the original skill-connector section)
+- בעבודה על חנות או על דף נחיתה (שופיפיי, עברית RTL, מובייל קודם): ecommerce-store-cro הוא הסמכות. הסקיל הזה נותן כיוון ויזואלי בלבד, ובסתירה עם המרה, אמון, RTL או נגישות, ecommerce-store-cro גובר.
 - הקוד כאן כתוב בעיקר ל React ו Tailwind. בתבנית שופיפיי (Liquid) לוקחים את העקרונות, לא את הקוד.
 - קופי בתוך העיצוב: copywriting-ads. ביקורת אחרי בנייה: ui-web-design (part: web-design-guidelines). מפת כל סקילי העיצוב: ecommerce-store-cro (part: store-design-cro), "סקילים קשורים".
 - רפרנס ויזואלי לפני בנייה. ui-web-design (part: image-to-code) ממשיך מהתמונות לקוד.

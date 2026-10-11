@@ -1,6 +1,7 @@
 Original description: Elite mobile app image-generation skill for creating premium, app-native screen concepts and flows. Designed for iOS, Android, and cross-platform mobile products. Prioritizes clean hierarchy, comfortably readable text, strong multi-screen consistency, controlled color palettes, non-generic creative direction, textured surfaces, image-led composition, tasteful custom iconography, and clean phone mockup framing. By default, screens should be shown inside a subtle premium iPhone or similar phone mockup with a visible frame, while the main focus stays on the app content itself. This skill generates images only. It does not write code.
 
 ## Usage notes (general lines kept from the original skill-connector section)
+- בעבודה על חנות או על דף נחיתה (שופיפיי, עברית RTL, מובייל קודם): ecommerce-store-cro הוא הסמכות. הסקיל הזה נותן כיוון ויזואלי בלבד, ובסתירה עם המרה, אמון, RTL או נגישות, ecommerce-store-cro גובר.
 - הקוד כאן כתוב בעיקר ל React ו Tailwind. בתבנית שופיפיי (Liquid) לוקחים את העקרונות, לא את הקוד.
 - קופי בתוך העיצוב: copywriting-ads. ביקורת אחרי בנייה: ui-web-design (part: web-design-guidelines). מפת כל סקילי העיצוב: ecommerce-store-cro (part: store-design-cro), "סקילים קשורים".
 - למסכי אפליקציה, לא לחנות. לחנות: image-generation-branding (part: imagegen-frontend-web).

@@ -4,7 +4,7 @@ Original frontmatter: `argument-hint: person's name` · `disable-model-invocatio
 
 ## חיבור לסקילים אחרים
 - שימושים בעסק: ביקורת על ההצעה, התמחור או הקופי "בעיניים של" מומחה, למשל Alex Hormozi להצעה או Eugene Schwartz לקופי.
-- מה שהדמות אומרת הוא דעה, לא עובדה.
+- מה שהדמות אומרת הוא דעה, לא עובדה. עובדות מוצר, מחירים וטענות מותרות נלקחים ממקור העובדות של העסק, לא מהדמות.
 - בגרסה הזו הסקריפט נמצא בתיקייה scripts שליד הקובץ הזה (scripts/fetch_youtube.py). עובד רק בלשונית Code.
 
 # /coach — talk to anyone

@@ -3,6 +3,9 @@ name: security-audit
 description: Security guidance and vulnerability review for codebases, APIs, services, CLI tools, libraries, and daemons. Use for security questions, focused reviews, vulnerability research, security audits, or pen tests. Run the complete workflow only for explicit codebase audit or pen-test requests, full/comprehensive/end-to-end reviews, or requested report artifacts.
 ---
 
+## חיבור לסקילים אחרים
+- רלוונטי כשבונים אתר, אפליקציה או אוטומציה, למשל ב n8n או חיבור שנבנה עם mcp-builder.
+
 # Security Audit
 
 Find vulnerabilities that violate a real trust boundary, then give owners the source evidence, safe reproduction, priority, and smallest effective fix. This is a defensive, source-first workflow. A candidate without a concrete affected principal, resource, or security outcome is not a confirmed finding.

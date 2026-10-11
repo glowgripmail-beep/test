@@ -25,7 +25,9 @@ This skill merges thirteen former skills (four from Anthropic's productivity plu
 | coach-refresh | `coach-refresh/GUIDE.md` | personal slash command `/coach-refresh <name>` |
 | coach-switch | `coach-switch/GUIDE.md` | personal slash command `/coach-switch <name>` |
 
-`LICENSE` (Apache 2.0) is the productivity plugin's license and covers the four plugin parts, `dashboard.html` and `CONNECTORS.md`. `morning/assets/fonts/Fraunces-OFL.txt` is the font's license.
+`LICENSE` (Apache 2.0) is the productivity plugin's license and covers the four plugin parts, `dashboard.html` and `CONNECTORS.md`. `morning/assets/fonts/Fraunces-OFL.txt` is the font's license. The source plugin's README is kept as [PLUGIN-README.md](PLUGIN-README.md) (its slash commands are now parts of this skill), and [plugin.mcp.json](plugin.mcp.json) lists the connectors the original plugin used; it is reference only, not active config.
+
+**Writing profile is a snapshot.** `my-writing-style/GUIDE.md` here is a snapshot copy. Updates made by setup-writing-style or the save tools (`save_writing_style`, `save_skill`) go to the standalone `my-writing-style` skill, which is the live version: when that skill is installed, prefer it over this copy.
 
 ## Which file to read when
 
@@ -83,7 +85,7 @@ Listed, not resolved; each side is labeled by its source part.
 2. **What goes into a person's file.** memory-management: full profiles (`memory/people/{name}.md`, filename by person's name e.g. `todd-martinez.md`, communication preferences, reports-to, personal notes such as "Cubs fan, likes talking baseball"). import-memory: "Relationship context only, not a dossier", family members slugged by relationship never by name, no files for care providers, and a privacy filter that drops protected attributes, health, money amounts and identifiers.
 3. **Changing existing memory.** memory-management: promote/demote between `CLAUDE.md` and `memory/`, and stale items are removed from `CLAUDE.md` ("Historical/stale | ✗ Remove"). import-memory: "Additive only... Never rewrite, reorder, or delete any existing memory line or file" (stated for imports).
 4. **Confirming before writing.** memory-management: on "remember this" / "X means Y", add it to memory. update, task-management and import-memory: never add tasks or memories without user confirmation / "Ask before adding" / "Confirm before writing".
-5. **Names in the writing profile.** setup-writing-style: "Never write PII into the profile. No names... — the user's or anyone else's." my-writing-style (the saved profile): uses the user's first name in a heading ("## איך אושרי כותב (כללי)").
+5. **Names in the writing profile.** setup-writing-style: "Never write PII into the profile. No names... — the user's or anyone else's." my-writing-style (the saved profile): used the user's first name in a heading; in this copy the name is replaced with "המשתמש" ("## איך המשתמש כותב (כללי)").
 6. **Where the writing profile is saved.** setup-writing-style and my-writing-style ("Updating this profile"): save/re-save as a standalone `my-writing-style` skill (`save_writing_style`, `save_skill`, or `~/.claude/skills/my-writing-style/SKILL.md`). In this merged skill the profile is stored at `productivity-memory/my-writing-style/GUIDE.md`, so a re-save through those tools updates a separate copy, not this file.
 7. **Surfaces of the writing profile.** setup-writing-style template: surfaces are email, Slack, DM, doc. my-writing-style: "email, WhatsApp, ad copy, doc" and sections by kind of writing (הסברים, שיווק, קופי, ניתוח מודעות).
 8. **Fonts from Google Fonts.** morning: "Do not fetch fonts from Google Fonts" and embed Fraunces as base64. `dashboard.html` (start/task-management): loads Inter from `fonts.googleapis.com`.
