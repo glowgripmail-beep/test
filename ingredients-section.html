@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>המרכיבים</title>
+</head>
+<body style="margin:0">
+
+<!-- ===== Ingredients section: paste from here ===== -->
+<section class="ing" id="ingredients" dir="rtl" aria-labelledby="ing-title">
+  <style>
+    .ing{--ing-navy:#0f1f3d;--ing-text:#3a4252;--ing-bg:#fff;--ing-gap:16px;
+      background:var(--ing-bg);padding:56px 0 64px;font-family:inherit;color:var(--ing-text)}
+    .ing *{box-sizing:border-box}
+    .ing__head{display:flex;align-items:flex-end;justify-content:space-between;gap:16px;
+      max-width:1200px;margin:0 auto 28px;padding:0 20px}
+    .ing__title{margin:0;font-size:clamp(26px,3.4vw,38px);line-height:1.15;font-weight:700;color:var(--ing-navy)}
+    .ing__nav{display:none;gap:8px}
+    .ing__btn{width:44px;height:44px;border-radius:50%;border:1px solid #d5d9e2;background:#fff;
+      color:var(--ing-navy);cursor:pointer;display:grid;place-items:center;padding:0;
+      transition:background .2s,color .2s,opacity .2s}
+    .ing__btn:hover:not(:disabled){background:var(--ing-navy);color:#fff}
+    .ing__btn:disabled{opacity:.35;cursor:default}
+    .ing__btn svg{width:18px;height:18px}
+    .ing__track{display:flex;gap:var(--ing-gap);overflow-x:auto;scroll-snap-type:x mandatory;
+      -webkit-overflow-scrolling:touch;scrollbar-width:none;
+      padding:0 20px 4px;scroll-padding:0 20px}
+    .ing__track::-webkit-scrollbar{display:none}
+    .ing__card{flex:0 0 80%;scroll-snap-align:start;margin:0}
+    .ing__img{display:block;width:100%;height:auto;aspect-ratio:1/1;object-fit:cover;border-radius:18px;background:#eee}
+    .ing__text{margin:18px 4px 0;font-size:16px;line-height:1.65}
+    .ing__dots{display:flex;justify-content:center;gap:8px;margin-top:24px}
+    .ing__dot{width:8px;height:8px;border-radius:50%;background:#d5d9e2;border:0;padding:0;cursor:pointer;
+      transition:background .2s,width .2s}
+    .ing__dot[aria-current="true"]{background:var(--ing-navy);width:22px;border-radius:8px}
+    @media (min-width:700px){
+      .ing__card{flex-basis:calc((100% - var(--ing-gap)) / 2.2)}
+    }
+    @media (min-width:1000px){
+      .ing{padding:80px 0 88px}
+      .ing__nav{display:flex}
+      .ing__track{max-width:1200px;margin:0 auto;padding:0 20px;scroll-padding:0 20px}
+      .ing__card{flex-basis:calc((100% - var(--ing-gap) * 2) / 3.15)}
+      .ing__text{font-size:17px}
+    }
+    @media (prefers-reduced-motion:reduce){.ing__track{scroll-behavior:auto}}
+  </style>
+
+  <div class="ing__head">
+    <h2 class="ing__title" id="ing-title">המרכיבים</h2>
+    <div class="ing__nav">
+      <button class="ing__btn" data-ing="prev" aria-label="הקודם">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg>
+      </button>
+      <button class="ing__btn" data-ing="next" aria-label="הבא">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 6l-6 6 6 6"/></svg>
+      </button>
+    </div>
+  </div>
+
+  <div class="ing__track" tabindex="0" role="region" aria-label="המרכיבים">
+    <figure class="ing__card">
+      <img class="ing__img" src="ingredients/biotin.webp" alt="ביוטין" loading="lazy" width="1254" height="1254">
+      <figcaption class="ing__text">ביוטין הוא ויטמין מקבוצת B (B7) שמשתתף בחילוף החומרים של חלבונים, שומנים ופחמימות. הוא נדרש לפעילות של אנזימים בתאי הגוף, ותורם לשמירה על שיער ועור תקינים.</figcaption>
+    </figure>
+    <figure class="ing__card">
+      <img class="ing__img" src="ingredients/vitamin-d.webp" alt="ויטמין D" loading="lazy" width="1254" height="1254">
+      <figcaption class="ing__text">ויטמין D הוא ויטמין מסיס בשומן שהגוף מייצר בחשיפה לשמש. הוא תומך בתפקוד תקין של מערכת החיסון ובחלוקת תאים, ותורם לשמירה על בריאות העצמות והשרירים. קולטנים לוויטמין D קיימים גם בתאי זקיק השיער, והקשר בין רמתו לבריאות השיער נחקר.</figcaption>
+    </figure>
+    <figure class="ing__card">
+      <img class="ing__img" src="ingredients/keratin.webp" alt="קרטין" loading="lazy" width="1254" height="1254">
+      <figcaption class="ing__text">קרטין הוא חלבון מבני שהוא המרכיב העיקרי של השיער, הציפורניים ושכבת העור החיצונית. הוא עשיר בחומצות אמינו, בעיקר ציסטאין, ונחקר בהקשר של תמיכה במראה השיער והציפורניים כחלק מתזונה ואורח חיים מאוזנים.</figcaption>
+    </figure>
+    <figure class="ing__card">
+      <img class="ing__img" src="ingredients/zinc.webp" alt="אבץ" loading="lazy" width="1254" height="1254">
+      <figcaption class="ing__text">אבץ הוא מינרל המעורב בהיבטים רבים של חילוף החומרים בתאים, הוא נדרש לפעילות קטליטית של מאות אנזימים והוא ממלא תפקיד בייצור חלבונים, ייצור דנ”א וחלוקת התא, ובריפוי פצעים ושמירה על עור בריא ועל ציפורניים ושיער בריאים.</figcaption>
+    </figure>
+    <figure class="ing__card">
+      <img class="ing__img" src="ingredients/collagen.webp" alt="קולגן" loading="lazy" width="1254" height="1254">
+      <figcaption class="ing__text">קולגן הוא חלבון מבני הנמצא באופן טבעי בגוף ותומך בשלמות הרקמות. קולגן מהווה מרכיב חשוב במבנה העור, הציפורניים והשיער, ונחקר בהקשרים של שמירה על מראה שיער תקין כחלק מתזונה ואורח חיים מאוזנים.</figcaption>
+    </figure>
+  </div>
+
+  <div class="ing__dots" aria-hidden="true"></div>
+
+  <script>
+  (function(){
+    var root=document.currentScript.parentElement;
+    var track=root.querySelector('.ing__track');
+    var cards=[].slice.call(track.children);
+    var dotsBox=root.querySelector('.ing__dots');
+    var prev=root.querySelector('[data-ing="prev"]'),next=root.querySelector('[data-ing="next"]');
+    var dots=cards.map(function(_,i){
+      var b=document.createElement('button');b.className='ing__dot';b.type='button';
+      b.onclick=function(){go(i)};dotsBox.appendChild(b);return b;
+    });
+    function padR(){return parseFloat(getComputedStyle(track).paddingRight)||0}
+    function go(i){
+      var c=cards[Math.max(0,Math.min(cards.length-1,i))];
+      var t=track.getBoundingClientRect(),r=c.getBoundingClientRect();
+      track.scrollTo({left:track.scrollLeft+(r.right-(t.right-padR())),behavior:'smooth'});
+    }
+    function current(){
+      var t=track.getBoundingClientRect(),best=0,d=1e9;
+      cards.forEach(function(c,i){var x=Math.abs(c.getBoundingClientRect().right-(t.right-padR()));if(x<d){d=x;best=i}});
+      return best;
+    }
+    function sync(){
+      var i=current(),max=Math.abs(track.scrollWidth-track.clientWidth)-2;
+      var atEnd=Math.abs(track.scrollLeft)>=max;
+      dots.forEach(function(b,k){b.setAttribute('aria-current',String(atEnd?k===cards.length-1:k===i))});
+      prev.disabled=Math.abs(track.scrollLeft)<2;next.disabled=atEnd;
+    }
+    prev.onclick=function(){go(current()-1)};
+    next.onclick=function(){go(current()+1)};
+    track.addEventListener('scroll',function(){requestAnimationFrame(sync)},{passive:true});
+    window.addEventListener('resize',sync);sync();
+  })();
+  </script>
+</section>
+<!-- ===== to here ===== -->
+
+</body>
+</html>
