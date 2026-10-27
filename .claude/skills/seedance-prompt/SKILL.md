@@ -7,6 +7,8 @@ description: "Turn a rough video idea (Hebrew or English) into a complete, struc
 
 Take the user's video idea, however rough, and return ONE production-ready Seedance 2.5 prompt, written in English, in a single copyable code block.
 
+Hard rule: every choice and every idea in the prompt must be approved by the user first (see Step 1.5). Never write the final prompt in the same message as the plan.
+
 ## Step 1: Extract or default the essentials
 
 Pull these from the idea. Ask only if something critical is missing AND there is no sensible default (max 2 short questions, in one message). Otherwise use the defaults and list them under "Assumptions".
@@ -21,6 +23,17 @@ Pull these from the idea. Ask only if something critical is missing AND there is
 | References | None, unless the user mentions uploading images/video/audio |
 
 If the idea is in Hebrew, understand it in Hebrew but write the prompt in English (the model follows English best).
+
+## Step 1.5: Approval gate (mandatory)
+
+Nothing goes into the prompt without the user's explicit approval. Before writing the prompt, send a short plan in the user's language (Hebrew if they wrote in Hebrew) and stop:
+
+- Settings: duration, aspect ratio, mode.
+- Every default you chose and everything you inferred from the idea.
+- Creative choices: characters (name, look), location, shot list (one line per shot), camera, lighting, audio.
+- Any idea of your own that goes beyond what the user said, marked as "suggestion".
+
+Keep the plan under ~12 lines. Do not write the prompt in the same message. Only after the user approves (or edits) the plan, write the full prompt per Step 2. If the user changes something, apply exactly that change and confirm only the changed items. If the user says "just do it" or approves everything, proceed without re-asking.
 
 ## Step 2: Write the prompt in this exact section order
 
@@ -65,7 +78,7 @@ Default to no dialogue. If the user wants speech:
 
 ## Output format
 
-Return exactly this, nothing more:
+Only after the plan was approved in Step 1.5. Return exactly this, nothing more:
 
 **Settings:** duration, aspect ratio, mode (text-to-video / image-to-video / references)
 
@@ -77,4 +90,4 @@ Return exactly this, nothing more:
 
 **Notes:** 1-3 bullets max: the riskiest part of this prompt and what to tweak first if the result is off.
 
-Do not offer multiple prompt variants unless asked. If the user asks for iteration after a generation, ask what went wrong (or read their description) and change only the section responsible.
+Do not offer multiple prompt variants unless asked. If the user asks for iteration after a generation, ask what went wrong (or read their description), propose the fix in one or two lines, and after the user approves it change only the section responsible.
